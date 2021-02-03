@@ -1,2 +1,6 @@
-# NdHack
+# Neurodiversity Hack
 Output from the Neurodiversity Hackathon, hosted by AstraZeneca and supported by Microsoft, Google, NVidia and Intel.
+
+The aim of the Hackathon is to .....
+
+The purpose of the repository is to ....
